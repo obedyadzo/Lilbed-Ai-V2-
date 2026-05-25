@@ -1,0 +1,6 @@
+{
+  "name": "Lilbed AI",
+  "description": "Next-generation global AI super platform for conversation, analysis, and automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
